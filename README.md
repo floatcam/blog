@@ -1,0 +1,2 @@
+# blog
+floatcam.ai publications
