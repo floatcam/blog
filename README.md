@@ -35,4 +35,6 @@ Add images to your publication by placing them in your publication folder and re
 ![My helpful screenshot](./screenshot.png)
 ```
 
+## Submissions
 
+To submit a publication, please open a pull request with your publication added to the `publications` folder. Please make sure that your publication follows the naming convention and includes all the necessary files. Your publication will be reviewed and merged. Once merged, your publication will be live on the website.
