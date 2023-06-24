@@ -14,7 +14,7 @@ The front matter of a publication should look like this:
 ```yaml
 ---
 title: "Paper Title"
-date: June 23rd, 2023
+date: 2023-06-23
 slug: my-new-publication
 author: Example Author
 duration: 5 minutes read
