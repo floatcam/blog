@@ -18,7 +18,7 @@ date: June 23rd, 2023
 slug: my-new-publication
 author: Example Author
 duration: 5 minutes read
-cover: ./featured.jpg
+cover: featured.jpg
 ---
 ```
 
