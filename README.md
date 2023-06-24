@@ -3,7 +3,7 @@ floatcam.ai publications
 
 ## How to add a new publication
 
-1. Add a new folder in the publications folder with the following naming convention: `YYYY-MM-DD--<slug>`. For example, `2020-01-01--my-new-publication`.
+1. Add a new folder in the publications folder with the following publication's slug as the folder name.
 2. Add a `index.md` file in this folder and fill out the [front matter](#front-matter) and content.
 3. Add a featured image named `featured.jpg/png` in this folder.
 
@@ -14,7 +14,7 @@ The front matter of a publication should look like this:
 ```yaml
 ---
 title: "Paper Title"
-date: 2023-06-23
+date: June 23rd, 2023
 slug: my-new-publication
 author: Example Author
 duration: 5 minutes read

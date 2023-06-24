@@ -1,6 +1,6 @@
 ---
 title: "The New floatcam: Evolving to Better Serve You"
-date: 2023-06-23
+date: June 23rd, 2023
 slug: the-new-floatcam-evolving-to-better-serve-you
 author: Simon Peter Damian
 duration: 5 minutes read
