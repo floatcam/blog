@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "The publication date, example: June 23rd, 2023"
+    },
+    "slug": {
+      "type": "string",
+      "description": "The URL-friendly string that identifies the publication"
+    },
+    "title": {
+      "type": "string",
+      "description": "The title of the publication"
+    },
+    "author": {
+      "type": "string",
+      "description": "The author of the publication"
+    },
+    "duration": {
+      "type": "string",
+      "description": "An estimate of how long it will take to read the publication"
+    },
+    "cover": {
+      "type": "string",
+      "format": "uri",
+      "description": "A URL to an image that represents the publication. This can also be a relative path to an image in the same directory as the publication"
+    }
+  },
+  "required": ["date", "slug", "title", "author", "duration", "cover"]
+}
