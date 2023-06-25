@@ -4,7 +4,9 @@ date: June 23rd, 2023
 slug: the-new-floatcam-evolving-to-better-serve-you
 author: Simon Peter Damian
 duration: 5 minutes read
-cover: ./featured.jpg
+cover: featured.jpg
+summary: "floatcam has evolved into a comprehensive media collection tool that integrates AI into the capture process."
+keywords: floatcam, media collection, AI, transcription, face matching, detection and recognition, sentiment analysis, video and audio search
 ---
 
 floatcam originated as a simple side project. I just wanted a customizable video widget to overlay on my screen recordings, and despite several paid services, none offered the exact solution I needed. Thus, I decided to build floatcam.

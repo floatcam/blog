@@ -4,7 +4,9 @@ date: June 24th, 2023
 slug: real-time-media-collection-from-users-the-new-frontier-in-user-generated-content
 author: Simon Peter Damian
 duration: 5 minutes read
-cover: ./featured.jpg
+cover: featured.jpg
+summary: "Real-time media collection from users is revolutionizing the digital landscape. It is expanding our capacity to connect, create, and communicate in ways that were unimaginable only a few years ago. This burgeoning trend has taken root in various sectors, including social networking, journalism, marketing, and entertainment, among others. It presents a dynamic, immersive, and engaging way to interact with an audience and foster a more personalized experience."
+keywords: "real-time media collection, user-generated content, user-generated media, user-generated content platform, user-generated content marketing, user-generated content examples, user-generated content statistics, user-generated content ideas, user-generated content campaigns, user-generated content strategy"
 ---
 
 Real-time media collection from users is revolutionizing the digital landscape. It is expanding our capacity to connect, create, and communicate in ways that were unimaginable only a few years ago. This burgeoning trend has taken root in various sectors, including social networking, journalism, marketing, and entertainment, among others. It presents a dynamic, immersive, and engaging way to interact with an audience and foster a more personalized experience.
