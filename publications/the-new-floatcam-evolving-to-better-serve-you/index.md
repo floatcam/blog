@@ -5,6 +5,7 @@ slug: the-new-floatcam-evolving-to-better-serve-you
 author: Simon Peter Damian
 duration: 5 minutes read
 cover: featured.jpg
+cover_attribution: unsplash.com
 summary: "floatcam has evolved into a comprehensive media collection tool that integrates AI into the capture process."
 keywords: floatcam, media collection, AI, transcription, face matching, detection and recognition, sentiment analysis, video and audio search
 ---
