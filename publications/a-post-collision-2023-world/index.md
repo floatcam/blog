@@ -6,7 +6,7 @@ author: Simon Peter Damian
 duration: 2 minutes read
 cover: featured.jpg
 cover_attribution: floatcam.ai
-summary: ""Reflecting on our Collision 2023 experience, we share insights on the importance of diverse perspectives, the value of feedback, and the challenges of attending such a large-scale event. Discover how these experiences are shaping the future of Floatcam, our innovative media collection tool, and get a glimpse of what's next in our journey."
+summary: "Reflecting on our Collision 2023 experience, we share insights on the importance of diverse perspectives, the value of feedback, and the challenges of attending such a large-scale event. Discover how these experiences are shaping the future of Floatcam, our innovative media collection tool, and get a glimpse of what's next in our journey."
 keywords: "Collision 2023, Floatcam, Startup, Media Collection Tool, Feedback, Networking, Product Development, MVP, Early-stage Startup, Investment Opportunities"
 ---
 
